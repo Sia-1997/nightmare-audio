@@ -1,6 +1,6 @@
 # nightmare-audio
 
-use out3.ipynb to generate output audios.
+use nightmare_audio.ipynb to generate output audios.
 
 use buffer.ipynb to test the results.
 If  the output audio cannot be processed by buffer.ipynb, please use this cell to make it long enough to be batched and then processed by musicnn.
